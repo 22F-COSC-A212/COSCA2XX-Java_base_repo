@@ -7,6 +7,7 @@
 {
    "files.exclude": {
       "*.class": true,
+      "build/*.class": true,
       ".vscode": true,
       ".git*": true,
       "*.code-workspace": true,
